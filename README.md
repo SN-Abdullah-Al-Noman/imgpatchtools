@@ -15,3 +15,5 @@ chmod +x ./BlockImageUpdate
 ./BlockImageUpdate odm.img odm.transfer.list odm.new.dat odm.patch.dat 
 
 ./BlockImageUpdate product.img product.transfer.list product.new.dat product.patch.dat 
+
+./BlockImageUpdate system.img system.transfer.list system.new.dat system.patch.dat 
